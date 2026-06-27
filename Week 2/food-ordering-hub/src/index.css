@@ -134,8 +134,7 @@ body {
 
 .cart-popup {
     position: absolute;
-    right:50%;
-    transform:translateX(50%);
+    right:0;
     top: 45px;
     width: 380px;
     background: white;
